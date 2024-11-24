@@ -1,0 +1,23 @@
+.OddNumbers
+{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(228, 146, 160);
+}
+
+#second_element
+{
+    font-size: 36px;
+    color: rgb(0, 139, 194);
+}
+
+.third_element
+{
+    font-size: 24px;
+}
+
+#Fourth_Element
+{
+    font-size: 24;
+    font-weight: bold;
+    background-color: rgb(122, 255, 140);
+}
